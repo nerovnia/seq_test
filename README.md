@@ -1,2 +1,2 @@
-# siq_test
-Siquelize test project
+# seq_test
+Sequelize test project
