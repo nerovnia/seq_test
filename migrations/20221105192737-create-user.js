@@ -11,7 +11,7 @@ module.exports = {
       },
       uuid: {
         type: DataTypes.UUID,
-        allowNull: DataTypes.UUIDV4
+        defaultValue: DataTypes.UUIDV4
       },
       name: {
         type: DataTypes.STRING,
